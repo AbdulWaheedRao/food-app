@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200337843257",
+    "project_id": "foodapp-flutter-40311",
+    "storage_bucket": "foodapp-flutter-40311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200337843257:android:394bd5055cc958e1c899e8",
+        "android_client_info": {
+          "package_name": "com.example.hero_animation_page_material_rout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200337843257-ekoo5e35nhr0fcik04nspg8ctm2vqmfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBkTxsTDq1Mq8--Vv3SNL0mPNcriUPsEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200337843257-ekoo5e35nhr0fcik04nspg8ctm2vqmfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
